@@ -1,0 +1,55 @@
+body {
+  background-color: rgb(9, 9, 109);
+}
+.person-name {
+  color: white;
+  font-size: 60px;
+}
+.email {
+  color: white;
+  font-size: medium;
+}
+#unqui {
+  color: white;
+  font-size: x-large;
+}
+h3 {
+  color: green;
+  font-size: xx-large;
+}
+h4 {
+  color: white;
+  font-size: medium;
+}
+h5 {
+  font-size: 30px;
+  color: white;
+}
+.heading {
+  font-size: 20px;
+  color: white;
+}
+h6 {
+  font-size: 30px;
+  color: white;
+}
+.Intern {
+  font-size: 20px;
+  color: white;
+}
+header {
+  font-size: 50px;
+  color: green;
+}
+.Skill {
+  color: white;
+  font-size: medium;
+}
+header {
+  color: green;
+  font-size: 50px;
+}
+.Connect {
+  color: lightcoral;
+  font-size: 20px;
+}
